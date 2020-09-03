@@ -1,3 +1,4 @@
+# Author: Xiangting Li xzl5423@psu.edu
 temperature = input("Enter temperature: ")
 
 unit = input("Enter unit in F/f or C/c: ")
